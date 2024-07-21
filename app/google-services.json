@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388111069240",
+    "project_id": "roadq-77d08",
+    "storage_bucket": "roadq-77d08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388111069240:android:c3db54d18b5a0f267936cd",
+        "android_client_info": {
+          "package_name": "si.djdado.ddrive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2wdOWkKdMlY7M4PqnOBiuiMBOuhGwKJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

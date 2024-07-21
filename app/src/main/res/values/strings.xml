@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">D drive</string>
+    <string name="registerButton">Register</string>
+    <string name="loginButton">Login</string>
+    <string name="logoutButton">Logout</string>
+    <string name="backButton">Back</string>
+    <string name="startButton">Start drive</string>
+    <string name="stopButton">Stop drive</string>
+    <string name="textPassword">Password</string>
+    <string name="textEmail">Email</string>
+    <string name="textConfirmPassword">Confirm password</string>
+    <string name="title_activity_map">MapActivity</string>
+</resources>

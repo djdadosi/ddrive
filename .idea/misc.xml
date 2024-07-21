@@ -1,0 +1,24 @@
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Jan/Desktop/Projekt/gso.app/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.477" />
+        <entry key="..\:/Users/Jan/Desktop/Projekt/gso.app/app/src/main/res/drawable/ic_add_user.xml" value="0.4735" />
+        <entry key="..\:/Users/Jan/Desktop/Projekt/gso.app/app/src/main/res/drawable/ic_launcher_background.xml" value="0.477" />
+        <entry key="..\:/Users/Jan/Desktop/Projekt/gso.app/app/src/main/res/drawable/ic_login.xml" value="0.4735" />
+        <entry key="..\:/Users/Jan/Desktop/Projekt/gso.app/app/src/main/res/drawable/ic_test.xml" value="0.4735" />
+        <entry key="..\:/Users/Jan/Desktop/Projekt/gso.app/app/src/main/res/layout/activity_login.xml" value="0.55" />
+        <entry key="..\:/Users/Jan/Desktop/Projekt/gso.app/app/src/main/res/layout/activity_main.xml" value="0.55" />
+        <entry key="..\:/Users/Jan/Desktop/Projekt/gso.app/app/src/main/res/layout/activity_register.xml" value="0.5583333333333333" />
+        <entry key="..\:/Users/Jan/Desktop/Projekt/gso.app/app/src/main/res/layout/activity_two_fa.xml" value="0.55" />
+        <entry key="..\:/Users/jangr/Desktop/Projekt/gso.app/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" default="true" project-jdk-name="jbr-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

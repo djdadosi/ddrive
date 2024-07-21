@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="paddingi">15dp</dimen>
+    <dimen name="margini_20">20dp</dimen>
+    <dimen name="glavni_naslov">24sp</dimen>
+    <dimen name="naslovi">20sp</dimen>
+    <dimen name="podnaslov">16sp</dimen>
+    <dimen name="tekst">14sp</dimen>
+    <dimen name="margini_10">10dp</dimen>
+    <dimen name="margini_5">5dp</dimen>
+    <dimen name="margini_15">15dp</dimen>
+    <dimen name="margini_24">24dp</dimen>
+    <dimen name="margini_32">32dp</dimen>
+</resources>
